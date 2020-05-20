@@ -13,9 +13,5 @@ run it on your device and if liked it then just run the commmand
 and it will give you an apk file which you can keep or share with your friends
 
 
-![Preview of the app](https://github.com/KumarArab/Expense-App/blob/master/image3.jpg?raw=true)
-
-![Preview of the app](https://github.com/KumarArab/Expense-App/blob/master/image1.jpg?raw=true)
-
-![Preview of the app](https://github.com/KumarArab/Expense-App/blob/master/image2.jpg?raw=true)
+![Preview of the app](https://github.com/KumarArab/Expense-App/blob/master/image.png?raw=true)
 
